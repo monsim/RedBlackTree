@@ -1,0 +1,10 @@
+This project had difficult aspects.  Of those, fixTree() and addNode() gave the most problems. 
+While doing them on paper was fairly easy, it was difficult to implement and think about 
+the coding aspects of both the methods.  
+This was especially true when a node was null and when the first few nodes had to be entered. 
+Also, it was difficult at first to understand that Node is an inner class of RedBlackTree, 
+although after looking at the tester it was possible. 
+
+The following are the times it took to add the words of the dictionary to the Red Black Tree and the time it took to lookup/spellcheck the poem.  
+Time to make dictionary: 304 milliseconds
+Time to lookup poem: 21 milliseconds
